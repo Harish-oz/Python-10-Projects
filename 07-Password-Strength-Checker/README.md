@@ -6,6 +6,6 @@
 Enter your password: Hk#54878  
 
 ===== PASSWORD STRENGTH CHECKER =====  
-Strength: Strong ✅  
+Strength: Strong  
 Score: 5 / 5  
 ====================================='''
