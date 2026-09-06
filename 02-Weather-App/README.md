@@ -2,7 +2,7 @@
 
 A simple Python weather application that gets current weather information for any city using an online weather API.
 
-# Output
+'''Output
 Enter city name: Delhi
 
 ===== WEATHER APP =====  
@@ -11,4 +11,4 @@ Condition : Cloudy
 Temperature: 26 °C  
 Humidity  : 78 %  
 Wind Speed: 8 km/h  
-=======================
+======================='''
