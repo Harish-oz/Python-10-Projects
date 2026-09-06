@@ -22,11 +22,11 @@ if any(char in string.punctuation for char in password):
 print("\n===== PASSWORD STRENGTH CHECKER =====")
 
 if score <= 2:
-    print("Strength: Weak ❌")
+    print("Strength: Weak")
 elif score <= 4:
-    print("Strength: Medium ⚠️")
+    print("Strength: Medium")
 else:
-    print("Strength: Strong ✅")
+    print("Strength: Strong")
 
 print("Score:", score, "/ 5")
 print("=====================================")
